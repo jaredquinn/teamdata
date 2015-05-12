@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document Version="3.2.3-20150503143754" SystemTime="1431422488987">
+  <Teams>
+    <Reset />
+    <Transfer>
+      <To>
+        <Team1 />
+        <Team2 />
+      </To>
+      <From>
+        <Team1 />
+        <Team2 />
+      </From>
+    </Transfer>
+    <Merge>
+      <To>
+        <Team1 />
+        <Team2 />
+      </To>
+      <From>
+        <Team1 />
+        <Team2 />
+      </From>
+    </Merge>
+    <Team Id="SRDL">
+      <Name><![CDATA[SRDL]]></Name>
+      <Logo><![CDATA[/images/teamlogo/SRDL.png]]></Logo>
+      <AlternateName Id="overlay">
+        <Name><![CDATA[The Snipers (SRDL)]]></Name>
+      </AlternateName>
+      <Color Id="overlay_fg">
+        <Color><![CDATA[#000000]]></Color>
+      </Color>
+      <Color Id="overlay_bg">
+        <Color><![CDATA[#ff0000]]></Color>
+      </Color>
+      <Color Id="overlay_glow">
+        <Color empty="true"><![CDATA[]]></Color>
+      </Color>
+      <Skater Id="a1cfda3a-df90-4004-a504-95600e7dd947">
+        <Name><![CDATA[Low down Ho Down]]></Name>
+        <Number><![CDATA[120]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="3555384a-6cf6-4f88-ad31-219a8e20e4bf">
+        <Name><![CDATA[Micro MAchine]]></Name>
+        <Number><![CDATA[131]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="12811e6d-ee8f-464c-be24-f4e21fc802d0">
+        <Name><![CDATA[Icy Red]]></Name>
+        <Number><![CDATA[23]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="35282509-f420-4961-8d39-d06597a68909">
+        <Name><![CDATA[Levi Strides]]></Name>
+        <Number><![CDATA[501]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="e8d9f1b9-4ede-4750-a412-f915062c760d">
+        <Name><![CDATA[Bratt Pitt]]></Name>
+        <Number><![CDATA[53]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="71047b35-23e3-4f1f-9ade-3b3bde9c7c78">
+        <Name><![CDATA[Goldie Horns]]></Name>
+        <Number><![CDATA[55]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="04619f01-b6dc-4c6c-91b5-314d37d2e9d5">
+        <Name><![CDATA[Carnage]]></Name>
+        <Number><![CDATA[72]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="1d638449-cab9-4c0e-9d5b-bdb4ec327f2b">
+        <Name><![CDATA[Blocky Balboa]]></Name>
+        <Number><![CDATA[8008]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="80ca4f9d-f6fb-46f1-a903-f0653aa6deaa">
+        <Name><![CDATA[Sirius Whack]]></Name>
+        <Number><![CDATA[934]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="92ca631f-d589-4bc0-99c8-314562cc66dd">
+        <Name><![CDATA[Tonya Harder]]></Name>
+        <Number><![CDATA[94]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="9f86e3b3-3dc5-4ee9-a370-316ea7b7318a">
+        <Name><![CDATA[Sneaky Stackhouse]]></Name>
+        <Number><![CDATA[99]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="4c422e18-1287-43ad-9d93-a97edddd289d">
+        <Name><![CDATA[Feisty Cuffs]]></Name>
+        <Number><![CDATA[K0]]></Number>
+        <Flags><![CDATA[C]]></Flags>
+      </Skater>
+      <Skater Id="ba963511-d848-45c7-bab7-d61500a4a590">
+        <Name><![CDATA[Chewhacker]]></Name>
+        <Number><![CDATA[NO5]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="641faf4a-ce53-497e-86d1-11a53c2abbec">
+        <Name><![CDATA[Stockard Slamming]]></Name>
+        <Number><![CDATA[R122]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="6895a4cc-75de-4539-a6fc-d9643280f3b0">
+        <Name><![CDATA[Ya Mum]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="fe622601-d1a9-4991-8c65-9dbe258f6650">
+        <Name><![CDATA[Rampage]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+    </Team>
+    <Team Id="HARD">
+      <Name><![CDATA[HARD]]></Name>
+      <Logo><![CDATA[/images/teamlogo/HARD.png]]></Logo>
+      <AlternateName Id="overlay">
+        <Name><![CDATA[Camo-Kazis (HARD)]]></Name>
+      </AlternateName>
+      <Color Id="overlay_fg">
+        <Color><![CDATA[#ffeb01]]></Color>
+      </Color>
+      <Color Id="overlay_bg">
+        <Color><![CDATA[#4c603b]]></Color>
+      </Color>
+      <Color Id="overlay_glow">
+        <Color><![CDATA[#a1a1a1]]></Color>
+      </Color>
+      <Skater Id="63151b0d-c659-4aae-8945-2fc9dc3a66f5">
+        <Name><![CDATA[Lightning]]></Name>
+        <Number><![CDATA[13]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="b89c9c67-15d2-4024-adb0-ca7840ad4d69">
+        <Name><![CDATA[Cold Ethyl]]></Name>
+        <Number><![CDATA[18]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="6203d75c-740b-4392-8eea-80010e67a6f3">
+        <Name><![CDATA[Ruthulu Rex]]></Name>
+        <Number><![CDATA[21D]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="4745241b-c0a2-4c12-8046-9a99ae7ca6e9">
+        <Name><![CDATA[Down Unda Thunda]]></Name>
+        <Number><![CDATA[2412]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="b6ba6ecd-2f25-4ba8-9f50-a850430dc39f">
+        <Name><![CDATA[ButterScream]]></Name>
+        <Number><![CDATA[25]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="e5cfb79e-aca3-48e0-a56d-953857462386">
+        <Name><![CDATA[Lola Ebola]]></Name>
+        <Number><![CDATA[30]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="58c5474b-1de3-455c-ad37-3ba9470f997c">
+        <Name><![CDATA[Samhain]]></Name>
+        <Number><![CDATA[3110]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="d4319a18-2c15-4de9-bdc0-391236df84f8">
+        <Name><![CDATA[Matron of Pain]]></Name>
+        <Number><![CDATA[4560]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="467636fc-f070-42a9-8901-5a507e9c54db">
+        <Name><![CDATA[Punkie BrawlSTAR]]></Name>
+        <Number><![CDATA[46]]></Number>
+        <Flags><![CDATA[C]]></Flags>
+      </Skater>
+      <Skater Id="99bc59f0-4a9b-48d2-b18a-3202bef2d89d">
+        <Name><![CDATA[Shorely Tremble]]></Name>
+        <Number><![CDATA[713]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="de71a4b5-94d7-4ad3-9980-9b89aebbdee7">
+        <Name><![CDATA[Myna Bingle]]></Name>
+        <Number><![CDATA[75]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="b08f5562-8ca8-44f1-8785-a4012237fc93">
+        <Name><![CDATA[Apple Ya'Hair]]></Name>
+        <Number><![CDATA[79]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="2849b44b-6720-4f13-bb83-b84456de12f4">
+        <Name><![CDATA[Viola Rollher]]></Name>
+        <Number><![CDATA[90]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="544251dd-e5be-4e14-bf7d-6cf4ecc538b8">
+        <Name><![CDATA[Betty StopHer]]></Name>
+        <Number><![CDATA[98]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="ccf90843-b251-4132-843b-738d30b878e2">
+        <Name><![CDATA[Toad Rage]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="fec952cc-51b3-4fd7-89f4-3aa4693c8016">
+        <Name><![CDATA[Foxy Fight-Her]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+    </Team>
+    <Team Id="VDL">
+      <Name><![CDATA[VDL]]></Name>
+      <Logo><![CDATA[/images/teamlogo/VDL_500x328.png]]></Logo>
+      <AlternateName Id="overlay">
+        <Name><![CDATA[Dishonour Rollers (VDL) ]]></Name>
+      </AlternateName>
+      <Color Id="overlay_fg">
+        <Color><![CDATA[#d2d3d3]]></Color>
+      </Color>
+      <Color Id="overlay_bg">
+        <Color><![CDATA[#eb2330]]></Color>
+      </Color>
+      <Color Id="overlay_glow">
+        <Color empty="true"><![CDATA[]]></Color>
+      </Color>
+      <Skater Id="5276b936-ca3f-4c9b-9185-b3c77df8f975">
+        <Name><![CDATA[Laser Station]]></Name>
+        <Number><![CDATA[0]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="96e3a0c7-dd45-48c3-8bd3-ff0c48ce7e2e">
+        <Name><![CDATA[Blocktopussy]]></Name>
+        <Number><![CDATA[007]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="c575379e-362b-4bed-8a96-31d600987c7a">
+        <Name><![CDATA[Jo Dirt]]></Name>
+        <Number><![CDATA[08]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="7e325fa2-a0bf-45d5-84fd-86b0bcbdf26e">
+        <Name><![CDATA[Diazeslam]]></Name>
+        <Number><![CDATA[10]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="5225b683-2e7a-486c-9b4b-134b9504c31e">
+        <Name><![CDATA[Maim Event]]></Name>
+        <Number><![CDATA[180]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="41c041eb-10c4-459c-91a9-8459d69d7b3e">
+        <Name><![CDATA[Cherry Bomb]]></Name>
+        <Number><![CDATA[1956]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="242b887a-0c0b-4ac4-b091-e4e405fcbfac">
+        <Name><![CDATA[Red Hot Jillie Pepper]]></Name>
+        <Number><![CDATA[23]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="f9034709-7579-4f25-a166-280ea9b2007b">
+        <Name><![CDATA[Ginja Ail]]></Name>
+        <Number><![CDATA[375]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="7944984c-69df-4d72-9fac-90d0291655ab">
+        <Name><![CDATA[Cleaver]]></Name>
+        <Number><![CDATA[3XL]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="d550266e-e671-4f3e-a160-b237b383f919">
+        <Name><![CDATA[Terror-Smackdyl]]></Name>
+        <Number><![CDATA[666]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="85ae2dd8-9097-4567-be55-1420bc83c5ad">
+        <Name><![CDATA[Reaper Cussions]]></Name>
+        <Number><![CDATA[76]]></Number>
+        <Flags><![CDATA[C]]></Flags>
+      </Skater>
+      <Skater Id="20286bb4-2b27-4a53-b626-1547c2b0fdf0">
+        <Name><![CDATA[Malificent Mara]]></Name>
+        <Number><![CDATA[928]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="f320c6ad-b29a-4ecc-b6ff-75ae9f1ada47">
+        <Name><![CDATA[Doc'd Marx]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="3bcbd6e7-9d22-4bab-8e6d-120f88dc120b">
+        <Name><![CDATA[Sheriff]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+    </Team>
+    <Team Id="CCRG">
+      <Name><![CDATA[CCRG]]></Name>
+      <Logo><![CDATA[/images/teamlogo/ccrg.png]]></Logo>
+      <AlternateName Id="overlay">
+        <Name><![CDATA[Valkyries (CCRG)]]></Name>
+      </AlternateName>
+      <Color Id="overlay_fg">
+        <Color><![CDATA[#d9d9d9]]></Color>
+      </Color>
+      <Color Id="overlay_bg">
+        <Color><![CDATA[#2a00ec]]></Color>
+      </Color>
+      <Color Id="overlay_glow">
+        <Color empty="true"><![CDATA[]]></Color>
+      </Color>
+      <Skater Id="ab665dbb-62df-4027-b27b-7ccd4cb55b2c">
+        <Name><![CDATA[Coppa Floggin]]></Name>
+        <Number><![CDATA[1111]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="1b41cb7b-ac65-4471-830d-c541eb897792">
+        <Name><![CDATA[Ratbag]]></Name>
+        <Number><![CDATA[18]]></Number>
+        <Flags><![CDATA[C]]></Flags>
+      </Skater>
+      <Skater Id="71ff25b9-569e-4c91-9e5c-6ae0c8c34cab">
+        <Name><![CDATA[Hannabelle Dekt'her]]></Name>
+        <Number><![CDATA[202]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="76bc92fc-3c7c-42c8-aee9-8b4e5e311b50">
+        <Name><![CDATA[Madame Mischief]]></Name>
+        <Number><![CDATA[26]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="eab621ab-fe9c-402e-abdb-6f6fcfac701a">
+        <Name><![CDATA[Hazy Demon]]></Name>
+        <Number><![CDATA[2H8]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="9c08186c-6be2-47f0-93c9-d8becdf5678e">
+        <Name><![CDATA[Miss Rackers Bum Bum]]></Name>
+        <Number><![CDATA[38]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="4e7b34b7-88d3-41d8-ba2d-2127341cac09">
+        <Name><![CDATA[Belt'er Goodrem]]></Name>
+        <Number><![CDATA[42]]></Number>
+        <Flags><![CDATA[C]]></Flags>
+      </Skater>
+      <Skater Id="699e6a25-c361-409f-9155-a4fb5d2a0997">
+        <Name><![CDATA[Mini Mayhem]]></Name>
+        <Number><![CDATA[6]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="e64256b2-d748-4cfd-b9f8-334df0fc8178">
+        <Name><![CDATA[MADusa]]></Name>
+        <Number><![CDATA[93]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="1e424d82-e6b3-4fdc-af2f-6760a2fc9932">
+        <Name><![CDATA[BAMphibian]]></Name>
+        <Number><![CDATA[SG1]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="6dcd02fe-77b8-45b1-84d1-2d5b41b5a32b">
+        <Name><![CDATA[Hans Oferbach]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="5e80733b-1791-4b31-9600-9de191bdd269">
+        <Name><![CDATA[Sir Gestive]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="fb70d1d4-879f-4772-8ee8-ba1f7f61851f">
+        <Name><![CDATA[Short Stak]]></Name>
+        <Number><![CDATA[078]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="188fc7bc-164e-4de4-8cc5-5e21358135d1">
+        <Name><![CDATA[Battle Smurf]]></Name>
+        <Number><![CDATA[101]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="25c2d0f2-3a76-4d48-93a8-e0263bc30c50">
+        <Name><![CDATA[Rogue Bludger]]></Name>
+        <Number><![CDATA[22]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="fb812b8c-ae17-4daa-8e5d-1f8f089f48c1">
+        <Name><![CDATA[Ball Blake’Her]]></Name>
+        <Number><![CDATA[44]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+    </Team>
+    <Team Id="S2D2">
+      <Name><![CDATA[S2D2]]></Name>
+      <Logo><![CDATA[/images/teamlogo/S2D2_500x500.png]]></Logo>
+      <AlternateName Id="overlay">
+        <Name><![CDATA[The Force (S2D2)]]></Name>
+      </AlternateName>
+      <Color Id="overlay_fg">
+        <Color><![CDATA[#ffffff]]></Color>
+      </Color>
+      <Color Id="overlay_bg">
+        <Color><![CDATA[#b100ff]]></Color>
+      </Color>
+      <Color Id="overlay_glow">
+        <Color empty="true"><![CDATA[]]></Color>
+      </Color>
+      <Skater Id="e9b153fa-3d74-4015-8db2-3712680d32aa">
+        <Name><![CDATA[Bacardi Bruiser]]></Name>
+        <Number><![CDATA[005]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="e50dc5a0-30f3-4ea9-8612-977614d737a7">
+        <Name><![CDATA[Freewee Fighter]]></Name>
+        <Number><![CDATA[187]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="c2055da2-fde1-4999-84fd-a8afd30f7d08">
+        <Name><![CDATA[Underbelly Morelli]]></Name>
+        <Number><![CDATA[20]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="31066b35-4a8b-450f-b201-f2892a9f7734">
+        <Name><![CDATA[DaniHELL]]></Name>
+        <Number><![CDATA[23]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="68ad8b26-f613-4373-ac61-e67e5db9a0fe">
+        <Name><![CDATA[KillaBee]]></Name>
+        <Number><![CDATA[27]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="46790277-88e0-42d4-9d9d-4711d6dd1d4a">
+        <Name><![CDATA[Lethal]]></Name>
+        <Number><![CDATA[389]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="4cee3204-03fd-487b-bae8-cf855a7ebdc9">
+        <Name><![CDATA[Sparky]]></Name>
+        <Number><![CDATA[64]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="0a2c1fa6-ad50-4879-9d76-222817259a6a">
+        <Name><![CDATA[Minnie]]></Name>
+        <Number><![CDATA[666]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="a3e51f35-5189-4e0a-8611-644b5c21867f">
+        <Name><![CDATA[Cluster Frack]]></Name>
+        <Number><![CDATA[75]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="66374ed5-9b00-44ec-880d-c1d506b0ac31">
+        <Name><![CDATA[Fairy Bled]]></Name>
+        <Number><![CDATA[8]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="32cc9800-5480-4c95-8366-87dd982d7ba1">
+        <Name><![CDATA[Haterade]]></Name>
+        <Number><![CDATA[801]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="561f42d1-b6c6-4ee0-a5a2-5b8c2f6f3a92">
+        <Name><![CDATA[Impure Blonde]]></Name>
+        <Number><![CDATA[81]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="19284511-e012-4025-89ff-da5ae5ced9d7">
+        <Name><![CDATA[Apocalyss]]></Name>
+        <Number><![CDATA[99]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="d949f4d4-0c92-471b-b180-3aefefb008cc">
+        <Name><![CDATA[Kernel Panic]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="e43223f6-e42b-4571-94d3-2e3913b4fcde">
+        <Name><![CDATA[Lenny]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+    </Team>
+    <Team Id="NRDL">
+      <Name><![CDATA[NRDL]]></Name>
+      <Logo><![CDATA[/images/teamlogo/NRDL.png]]></Logo>
+      <AlternateName Id="overlay">
+        <Name><![CDATA[Dockyard Dames (NRDL)]]></Name>
+      </AlternateName>
+      <Color Id="overlay_fg">
+        <Color><![CDATA[#ffcc00]]></Color>
+      </Color>
+      <Color Id="overlay_bg">
+        <Color><![CDATA[#330065]]></Color>
+      </Color>
+      <Color Id="overlay_glow">
+        <Color empty="true"><![CDATA[]]></Color>
+      </Color>
+      <Skater Id="15869040-4fa5-48e6-a32a-a609adac3309">
+        <Name><![CDATA[Kali Entay]]></Name>
+        <Number><![CDATA[100]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="c3afd429-e847-4acf-9d13-efada93409ba">
+        <Name><![CDATA[Marilyn Tantrum]]></Name>
+        <Number><![CDATA[15]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="307348e9-6b53-430e-8d55-14ebb04f0333">
+        <Name><![CDATA[Booga]]></Name>
+        <Number><![CDATA[16]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="5f33f16c-e897-4bb9-9cd9-65dfef2d5f07">
+        <Name><![CDATA[Mojo Malicious]]></Name>
+        <Number><![CDATA[26]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="44f0f395-d514-4f30-b622-60f67b2a978c">
+        <Name><![CDATA[Hollie Funck]]></Name>
+        <Number><![CDATA[3]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="142035d2-d481-44dd-b1ce-7763bf022c5d">
+        <Name><![CDATA[De-Bri]]></Name>
+        <Number><![CDATA[737]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="8fcd3d8e-2375-43f7-8095-165a7a5a5a8c">
+        <Name><![CDATA[Moxie Monoxide]]></Name>
+        <Number><![CDATA[789]]></Number>
+        <Flags><![CDATA[C]]></Flags>
+      </Skater>
+      <Skater Id="f23b94b7-168a-4d24-9cc1-736692d14a87">
+        <Name><![CDATA[Vanilla Bean]]></Name>
+        <Number><![CDATA[93]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="0190252e-b951-4885-aaff-3e5c0bcd4c33">
+        <Name><![CDATA[Thunder Slut]]></Name>
+        <Number><![CDATA[R18]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="1866c88c-34c7-48fc-8306-4f7344c45841">
+        <Name><![CDATA[Valfreya]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="0072cfa9-8eed-41cb-9116-77592e34a68b">
+        <Name><![CDATA[The Dutchess]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="b4f351c1-dc00-4c0a-8daf-98bda9cda1d0">
+        <Name><![CDATA[Kay Sasse]]></Name>
+        <Number><![CDATA[49]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="22766550-4d2e-4c39-b12c-37ea9bde1157">
+        <Name><![CDATA[Fannie Tastic]]></Name>
+        <Number><![CDATA[0690]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="c6796849-65c7-42f7-90f0-cf4410289591">
+        <Name><![CDATA[GodJilla Sold Separately]]></Name>
+        <Number><![CDATA[92]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="bfb5b44f-1e2b-4417-9262-78ed9ae615af">
+        <Name><![CDATA[Hippie Hardarse]]></Name>
+        <Number><![CDATA[7]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="5a1c6dd3-34d4-484e-91d1-cbeadd4cef57">
+        <Name><![CDATA[Ginger Rage]]></Name>
+        <Number><![CDATA[77]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="7eedab7a-46f5-4a75-be18-37f04f9fa3aa">
+        <Name><![CDATA[Reggie Ramjet]]></Name>
+        <Number><![CDATA[31]]></Number>
+        <Flags><![CDATA[ALT]]></Flags>
+      </Skater>
+    </Team>
+    <Team Id="IWRDL">
+      <Name><![CDATA[IWRDL]]></Name>
+      <Logo><![CDATA[/images/teamlogo/IWRDL_500x500.png]]></Logo>
+      <AlternateName Id="overlay">
+        <Name><![CDATA[Skatecrashers (IWRDL)]]></Name>
+      </AlternateName>
+      <Color Id="overlay_fg">
+        <Color><![CDATA[#ff6800]]></Color>
+      </Color>
+      <Color Id="overlay_glow">
+        <Color empty="true"><![CDATA[]]></Color>
+      </Color>
+      <Color Id="overlay_bg">
+        <Color><![CDATA[#4200bb]]></Color>
+      </Color>
+      <Skater Id="86db55f4-f90d-4ba0-b856-f95da71aa64d">
+        <Name><![CDATA[Vanity Bonfire]]></Name>
+        <Number><![CDATA[101]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="971efd40-f5bf-4a7c-810a-79acb7efd2b1">
+        <Name><![CDATA[Rockzy Von Teaze]]></Name>
+        <Number><![CDATA[13]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="2e739ea3-ac6a-45ac-9aea-abdc97ff8438">
+        <Name><![CDATA[Ginger Rogered]]></Name>
+        <Number><![CDATA[1929]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="1295514b-73ce-4f52-981c-ab4bc8435a2f">
+        <Name><![CDATA[Peryl Streep]]></Name>
+        <Number><![CDATA[1949]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="b4753c7f-d4da-443f-a435-987e83767173">
+        <Name><![CDATA[Capt'n KidKat]]></Name>
+        <Number><![CDATA[42]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="e2186f1e-ff54-4de3-aeee-7ed108b24c64">
+        <Name><![CDATA[Shevy Chase]]></Name>
+        <Number><![CDATA[43]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="2dfdab40-75c3-4a6d-bd83-5b4fca64f206">
+        <Name><![CDATA[Cop Ophelia]]></Name>
+        <Number><![CDATA[50]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="990f21ea-cc35-4347-8284-e80ea762bf0c">
+        <Name><![CDATA[Boss Whedon]]></Name>
+        <Number><![CDATA[64]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="eaf11aa4-960f-433e-a6c5-f7e5121a0eeb">
+        <Name><![CDATA[Hellcat]]></Name>
+        <Number><![CDATA[68]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="70e5361c-5114-4129-aab7-77ae9430d9ba">
+        <Name><![CDATA[Magika]]></Name>
+        <Number><![CDATA[7]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="d901aa8f-969c-4056-ab3e-41d11db05ef4">
+        <Name><![CDATA[Boxy Lady]]></Name>
+        <Number><![CDATA[814]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="3c021b5e-77b7-4502-8cbc-61849c9b3a61">
+        <Name><![CDATA[Lyoness]]></Name>
+        <Number><![CDATA[896]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="df3e7680-bb07-4ffc-b73c-b2676a715446">
+        <Name><![CDATA[Ruby Soho]]></Name>
+        <Number><![CDATA[910]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="52cd5e5f-6300-4501-bd36-faea4a94d9a9">
+        <Name><![CDATA[Penelope Pistoff]]></Name>
+        <Number><![CDATA[999]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="489fe40c-bef2-4218-8c0c-094d7806b5be">
+        <Name><![CDATA[Rampage]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="c323689a-cf4b-46b8-a09e-d53065923b73">
+        <Name><![CDATA[Bitchy]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+    </Team>
+    <Team Id="BMRDL">
+      <Name><![CDATA[BMRDL]]></Name>
+      <Logo><![CDATA[/images/teamlogo/BMRDL.svg]]></Logo>
+      <AlternateName Id="overlay">
+        <Name><![CDATA[Free Sisters (BMRDL)]]></Name>
+      </AlternateName>
+      <Color Id="overlay_fg">
+        <Color><![CDATA[#ffffff]]></Color>
+      </Color>
+      <Color Id="overlay_bg">
+        <Color><![CDATA[#000dff]]></Color>
+      </Color>
+      <Color Id="overlay_glow">
+        <Color><![CDATA[#633a3a]]></Color>
+      </Color>
+      <Skater Id="48f44303-4d4b-4fcf-8e57-4eeb49e3e14a">
+        <Name><![CDATA[Roxy Tocin]]></Name>
+        <Number><![CDATA[07]]></Number>
+        <Flags><![CDATA[C]]></Flags>
+      </Skater>
+      <Skater Id="83eb1c20-dccb-4570-ac09-1bfa85e86be8">
+        <Name><![CDATA[Doctor Hoo Hoo]]></Name>
+        <Number><![CDATA[11]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="0255e973-9d85-4827-b891-b43f2f983eb6">
+        <Name><![CDATA[Moulin Bruise]]></Name>
+        <Number><![CDATA[17]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="ef6168f9-8808-4efc-ab7d-6d4d5235dbd2">
+        <Name><![CDATA[Vicious D'Licious]]></Name>
+        <Number><![CDATA[118]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="951d0e08-88a7-424e-9031-ef107c6c2256">
+        <Name><![CDATA[Blood Red Penny]]></Name>
+        <Number><![CDATA[1832]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="2e492b2d-d28d-4c4a-a5e4-595784884da6">
+        <Name><![CDATA[Victoria Hitter]]></Name>
+        <Number><![CDATA[375]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="cd9bc5f4-5720-407a-a86a-0b942c20d250">
+        <Name><![CDATA[Skatred]]></Name>
+        <Number><![CDATA[42]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="769d6e02-16ad-426b-a5bf-4a89428c8cda">
+        <Name><![CDATA[Ruby Bruiseday]]></Name>
+        <Number><![CDATA[45]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="1da784e1-0a7e-4657-bc07-5a0f735f0ac9">
+        <Name><![CDATA[Lozmosis]]></Name>
+        <Number><![CDATA[713]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="34f9ca5d-cef7-4eb8-b5d7-d3a069ec0f2b">
+        <Name><![CDATA[anniE-mergency]]></Name>
+        <Number><![CDATA[911]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="e6be2d02-0d78-41bc-9bba-35d3630644c1">
+        <Name><![CDATA[Ninja Rogers]]></Name>
+        <Number><![CDATA[99]]></Number>
+        <Flags />
+      </Skater>
+      <Skater Id="3bd6311d-6a09-4ea9-a6ff-dd134be1bb7c">
+        <Name><![CDATA[Mischief Managed]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="e7903165-51d5-4094-bb62-5f87d0d0ff90">
+        <Name><![CDATA[Kizz of Death]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+    </Team>
+    <Team Id="WIRD">
+      <Name><![CDATA[WIRD]]></Name>
+      <Logo><![CDATA[/images/teamlogo/WIRD.png]]></Logo>
+      <AlternateName Id="overlay">
+        <Name><![CDATA[Steel City Derby Dolls (WIRD)]]></Name>
+      </AlternateName>
+      <Color Id="overlay_fg">
+        <Color><![CDATA[#ffffff]]></Color>
+      </Color>
+      <Color Id="overlay_glow">
+        <Color empty="true"><![CDATA[]]></Color>
+      </Color>
+      <Color Id="overlay_bg">
+        <Color><![CDATA[#7265a7]]></Color>
+      </Color>
+      <Skater Id="433c3509-1692-47de-af93-31682d00eee6">
+        <Name><![CDATA[A.V.O.]]></Name>
+        <Number><![CDATA[00]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="5eb14147-2988-42ff-ac2a-8dec9bf24e29">
+        <Name><![CDATA[Kat o9 Tails]]></Name>
+        <Number><![CDATA[09]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="c094649b-f31c-4af8-a3a0-f841e8fa8517">
+        <Name><![CDATA[Kitty Kilher]]></Name>
+        <Number><![CDATA[4]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="01e8e23d-a546-4faa-b605-dec298e9e051">
+        <Name><![CDATA[FoxXx'C]]></Name>
+        <Number><![CDATA[8]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="0fb4d04b-68e7-4d6e-9ef6-ccc1842e583b">
+        <Name><![CDATA[Roundhouse Ruby]]></Name>
+        <Number><![CDATA[15]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="3478b865-8caf-41d8-82f8-1ecc550a995d">
+        <Name><![CDATA[Ziggy Starbuster]]></Name>
+        <Number><![CDATA[29]]></Number>
+        <Flags><![CDATA[C]]></Flags>
+      </Skater>
+      <Skater Id="b4e43acb-8835-4a38-a432-406527a813b6">
+        <Name><![CDATA[Italy]]></Name>
+        <Number><![CDATA[86]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="164ca044-4eed-463d-b4fb-ef385db43462">
+        <Name><![CDATA[Buckin Bec]]></Name>
+        <Number><![CDATA[303]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="8c184706-92e3-43f7-84cb-da043fca1d55">
+        <Name><![CDATA[KimOcean]]></Name>
+        <Number><![CDATA[818]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="4d7e82c0-febc-4337-ac68-ca540b994fda">
+        <Name><![CDATA[Vishious Ness]]></Name>
+        <Number><![CDATA[824]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="e8154c8c-efa1-44e6-8909-6130da053289">
+        <Name><![CDATA[Parole Denied]]></Name>
+        <Number><![CDATA[1402]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="01e7d0b8-e5c8-4f3d-86c5-3d3678f8d4b6">
+        <Name><![CDATA[Janis Job'em]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="cafa49ed-c28f-43f9-9de5-4765f307145a">
+        <Name><![CDATA[Lachy]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+    </Team>
+    <Team Id="NBRG">
+      <Name><![CDATA[NBRG]]></Name>
+      <Logo><![CDATA[/images/teamlogo/NBRG_391x500.png]]></Logo>
+      <AlternateName Id="overlay">
+        <Name><![CDATA[Sirens (NBRG)]]></Name>
+      </AlternateName>
+      <Color Id="overlay_fg">
+        <Color><![CDATA[#000000]]></Color>
+      </Color>
+      <Color Id="overlay_bg">
+        <Color><![CDATA[#4baeb4]]></Color>
+      </Color>
+      <Color Id="overlay_glow">
+        <Color empty="true"><![CDATA[]]></Color>
+      </Color>
+      <Skater Id="e6baf35a-d1b9-4b43-b588-8d2ec4f87228">
+        <Name><![CDATA[Get Shirty]]></Name>
+        <Number><![CDATA[14]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="7b639cff-aea5-4a13-8535-e3aebd4ac06f">
+        <Name><![CDATA[Corporal Punishment]]></Name>
+        <Number><![CDATA[790]]></Number>
+        <Flags><![CDATA[C]]></Flags>
+      </Skater>
+      <Skater Id="d0100f54-b3d4-4652-9c08-a27ce1526afd">
+        <Name><![CDATA[Ruby Whipper]]></Name>
+        <Number><![CDATA[78]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="e1c8eaf6-3f18-44d4-b478-f324a2a9d4bf">
+        <Name><![CDATA[Dread Pirate Roberts]]></Name>
+        <Number><![CDATA[913]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="4f7b927b-410e-4e03-8330-327196673ab0">
+        <Name><![CDATA[Betty Rocker]]></Name>
+        <Number><![CDATA[1956]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="930981e6-19b8-43a4-9fc1-440a62265879">
+        <Name><![CDATA[Unsteddie]]></Name>
+        <Number><![CDATA[161]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="1a2d9bfc-21a7-49ef-8251-9cb49f49146d">
+        <Name><![CDATA[Metallikez]]></Name>
+        <Number><![CDATA[210]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="04edb5c6-da37-4dd3-91c1-f18f0ab8cb71">
+        <Name><![CDATA[Natural Born Killer]]></Name>
+        <Number><![CDATA[66]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="03ae4f40-8cf1-4541-b6ef-d17c70b80869">
+        <Name><![CDATA[Nasty Noodle]]></Name>
+        <Number><![CDATA[0807]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="c3d5cf3d-de80-40fa-af5e-bdc14f1edae2">
+        <Name><![CDATA[Yorkshire Terror]]></Name>
+        <Number><![CDATA[85]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="bee36bb0-549f-4ca9-8f64-32d4211dbccb">
+        <Name><![CDATA[Hardcore Bunny]]></Name>
+        <Number><![CDATA[212]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="ca163ddd-e904-4fcf-b8ea-ebee5e136913">
+        <Name><![CDATA[Crush n Over]]></Name>
+        <Number><![CDATA[181]]></Number>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="a3d9400e-ad68-4448-8414-6dc9f94288ad">
+        <Name><![CDATA[Topper Gnarly]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="d93616a2-2e1a-45a7-90da-bd99fd87be75">
+        <Name><![CDATA[Rage Quit]]></Name>
+        <Number empty="true"><![CDATA[]]></Number>
+        <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+    </Team>
+  </Teams>
+</document>
+
