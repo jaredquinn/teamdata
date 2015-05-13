@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document Version="3.2.3-20150503143754" SystemTime="1431422488987">
+<document Version="3.2.3-20150503143754" SystemTime="1431476544624">
   <Teams>
     <Reset />
     <Transfer>
@@ -39,12 +39,12 @@
       </Color>
       <Skater Id="a1cfda3a-df90-4004-a504-95600e7dd947">
         <Name><![CDATA[Low down Ho Down]]></Name>
-        <Number><![CDATA[120]]></Number>
+        <Number><![CDATA[14]]></Number>
         <Flags />
       </Skater>
       <Skater Id="3555384a-6cf6-4f88-ad31-219a8e20e4bf">
-        <Name><![CDATA[Micro MAchine]]></Name>
-        <Number><![CDATA[131]]></Number>
+        <Name><![CDATA[Micro Machine]]></Name>
+        <Number><![CDATA[222]]></Number>
         <Flags />
       </Skater>
       <Skater Id="12811e6d-ee8f-464c-be24-f4e21fc802d0">
@@ -59,7 +59,7 @@
       </Skater>
       <Skater Id="e8d9f1b9-4ede-4750-a412-f915062c760d">
         <Name><![CDATA[Bratt Pitt]]></Name>
-        <Number><![CDATA[53]]></Number>
+        <Number><![CDATA[89]]></Number>
         <Flags />
       </Skater>
       <Skater Id="71047b35-23e3-4f1f-9ade-3b3bde9c7c78">
@@ -69,17 +69,7 @@
       </Skater>
       <Skater Id="04619f01-b6dc-4c6c-91b5-314d37d2e9d5">
         <Name><![CDATA[Carnage]]></Name>
-        <Number><![CDATA[72]]></Number>
-        <Flags />
-      </Skater>
-      <Skater Id="1d638449-cab9-4c0e-9d5b-bdb4ec327f2b">
-        <Name><![CDATA[Blocky Balboa]]></Name>
-        <Number><![CDATA[8008]]></Number>
-        <Flags />
-      </Skater>
-      <Skater Id="80ca4f9d-f6fb-46f1-a903-f0653aa6deaa">
-        <Name><![CDATA[Sirius Whack]]></Name>
-        <Number><![CDATA[934]]></Number>
+        <Number><![CDATA[76]]></Number>
         <Flags />
       </Skater>
       <Skater Id="92ca631f-d589-4bc0-99c8-314562cc66dd">
@@ -87,24 +77,19 @@
         <Number><![CDATA[94]]></Number>
         <Flags />
       </Skater>
-      <Skater Id="9f86e3b3-3dc5-4ee9-a370-316ea7b7318a">
-        <Name><![CDATA[Sneaky Stackhouse]]></Name>
-        <Number><![CDATA[99]]></Number>
-        <Flags />
-      </Skater>
       <Skater Id="4c422e18-1287-43ad-9d93-a97edddd289d">
         <Name><![CDATA[Feisty Cuffs]]></Name>
-        <Number><![CDATA[K0]]></Number>
+        <Number><![CDATA[111]]></Number>
         <Flags><![CDATA[C]]></Flags>
       </Skater>
       <Skater Id="ba963511-d848-45c7-bab7-d61500a4a590">
         <Name><![CDATA[Chewhacker]]></Name>
-        <Number><![CDATA[NO5]]></Number>
+        <Number><![CDATA[5]]></Number>
         <Flags />
       </Skater>
       <Skater Id="641faf4a-ce53-497e-86d1-11a53c2abbec">
         <Name><![CDATA[Stockard Slamming]]></Name>
-        <Number><![CDATA[R122]]></Number>
+        <Number><![CDATA[122]]></Number>
         <Flags />
       </Skater>
       <Skater Id="6895a4cc-75de-4539-a6fc-d9643280f3b0">
@@ -116,6 +101,16 @@
         <Name><![CDATA[Rampage]]></Name>
         <Number empty="true"><![CDATA[]]></Number>
         <Flags><![CDATA[BC]]></Flags>
+      </Skater>
+      <Skater Id="aa44a3e8-6720-4a54-b820-193f7f1aaf39">
+        <Number><![CDATA[288]]></Number>
+        <Name><![CDATA[Chakram]]></Name>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="f6220889-a7d2-4e2d-8019-ee6e1a89e2f1">
+        <Number><![CDATA[33]]></Number>
+        <Name><![CDATA[Low Blow Oreo]]></Name>
+        <Flags empty="true"><![CDATA[]]></Flags>
       </Skater>
     </Team>
     <Team Id="HARD">
