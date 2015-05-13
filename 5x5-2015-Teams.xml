@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document Version="3.2.3-20150503143754" SystemTime="1431476544624">
+<document Version="3.2.3-20150503143754" SystemTime="1431476674173">
   <Teams>
     <Reset />
     <Transfer>
@@ -82,11 +82,6 @@
         <Number><![CDATA[111]]></Number>
         <Flags><![CDATA[C]]></Flags>
       </Skater>
-      <Skater Id="ba963511-d848-45c7-bab7-d61500a4a590">
-        <Name><![CDATA[Chewhacker]]></Name>
-        <Number><![CDATA[5]]></Number>
-        <Flags />
-      </Skater>
       <Skater Id="641faf4a-ce53-497e-86d1-11a53c2abbec">
         <Name><![CDATA[Stockard Slamming]]></Name>
         <Number><![CDATA[122]]></Number>
@@ -110,6 +105,11 @@
       <Skater Id="f6220889-a7d2-4e2d-8019-ee6e1a89e2f1">
         <Number><![CDATA[33]]></Number>
         <Name><![CDATA[Low Blow Oreo]]></Name>
+        <Flags empty="true"><![CDATA[]]></Flags>
+      </Skater>
+      <Skater Id="897c545e-5c31-4474-967a-c88cfb5f15cb">
+        <Number><![CDATA[555]]></Number>
+        <Name><![CDATA[Bitchy n Scratchy]]></Name>
         <Flags empty="true"><![CDATA[]]></Flags>
       </Skater>
     </Team>
